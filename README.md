@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Moses Mugoya
 I embarked on my journey as a backend developer, drawn to Python's versatility and the endless possibilities it offered. Over the span of 4 years, I honed my skills and delved deep into the backend realm, relishing every challenge it brought.
 
 But my thirst for knowledge knew no bounds. Intrigued by the dynamic nature of React, I ventured into the world of frontend development, immersing myself in JavaScript and TypeScript. The web became my canvas, and with each line of code, I painted new experiences and learned invaluable lessons.
